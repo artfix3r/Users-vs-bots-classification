@@ -1,5 +1,6 @@
 # Users-vs-bots-classification
 #### Dataset taken from kaggle @juice0lover
+#### If you wish you can find dataset [here](https://www.kaggle.com/datasets/juice0lover/users-vs-bots-classification)
 ## About Dataset 
 This dataset contains profile data collected from VK.com (VKontakte), Russia's largest social network, for distinguishing between genuine users and automated bots. The data includes both numerical and categorical features extracted from user profiles.
 
